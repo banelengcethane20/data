@@ -58,7 +58,7 @@ if( p_value_Interaction < 0.05){
 #else students will fail
 
 #also generally correct if you actually observe your students to check if work is done also observe that all the students work
-#else they might fail because you will be assuming that they are studying while not that we be seen on tests
+#else they might fail because you will be assuming that they are studying while not that will be seen on tests
 #but if you just observe and do nothing they might possible fail the exam
 
 #But doing both Observing and having teaching method that work exceptionally well and on academic there will be a progress
